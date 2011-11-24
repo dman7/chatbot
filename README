@@ -1,0 +1,8 @@
+A chatbot, written in .py, that utilizes Twitter and Google API to answer questions 
+the user asks. The user question is fed into Twitter/Google search results, the
+response is processed and text is extracted. The code uses a simple 3-gram to choose 
+the most relevant response from the text data.
+
+To run:
+1. Make sure you have BeautifulSoup package installed.
+2. Run chat.py
